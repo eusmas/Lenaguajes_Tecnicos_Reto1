@@ -64,7 +64,7 @@ void serialEvent2 ()  {         //evento serial para lectura de datos introducid
     tiempo=(enviar-(destino*100))/10;
     inicio=enviar-(destino*100)-(tiempo*10);
     }
-  delay(400);
+  delay(500);
   //comentario paraprobar la rama developer en git
 }
 
